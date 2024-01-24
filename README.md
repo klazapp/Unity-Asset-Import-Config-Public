@@ -29,11 +29,6 @@ To use the `AssetImportConfig` utility:
 2. Navigate to the menu item `Klazapp` > `Tools` > `Apply Art Assets Import Settings`.
 4. Click on it to run the script. This will automatically apply the predefined settings to all suitable assets.
 
-```csharp
-// Example of a script line or function call (if applicable)
-AssetImportConfig.ApplyImportSettings();
-```
-
 ## To-Do List (Future Features)
 - Support for different asset types (models, audio clips, etc.).
 - Customizable import settings through the Unity Editor UI.
