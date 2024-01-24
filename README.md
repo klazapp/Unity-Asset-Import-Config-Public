@@ -19,15 +19,15 @@ To utilize `AssetImportConfig`, your Unity project should meet these requirement
 | Compatible           | ✔️  | ✔️  | ✔️   |
 
 ## Installation
-1. Create a new C# script in your Unity project under the `Assets/Editor` folder.
-2. Copy and paste the `AssetImportConfig` script code into the new script file.
-3. Save the script and return to the Unity Editor.
+1. Open the Unity Package Manager (`Window` > `Package Manager`).
+2. Click `+`, select `Add package from git URL...`, and enter `https://github.com/klazapp/Unity-Device-Inspector-Public.git`.
+3. Unity will download and make the package available in your project.
 
 ## Usage
 To use the `AssetImportConfig` utility:
 1. Open your Unity project.
-2. Navigate to the menu item `Assets` > `Configure Import Settings`.
-3. Click on it to run the script. This will automatically apply the predefined settings to all suitable assets.
+2. Navigate to the menu item `Klazapp` > `Tools` > `Apply Art Assets Import Settings`.
+4. Click on it to run the script. This will automatically apply the predefined settings to all suitable assets.
 
 ```csharp
 // Example of a script line or function call (if applicable)
