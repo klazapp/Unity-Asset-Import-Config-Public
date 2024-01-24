@@ -36,7 +36,3 @@ To use the `AssetImportConfig` utility:
 
 ## License
 This utility is released under the [MIT License](LICENSE).
-
----
-
-Note: Ensure to replace any placeholder URLs or instructions with actual relevant details for your project or utility.
