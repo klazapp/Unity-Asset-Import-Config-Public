@@ -20,7 +20,7 @@ To utilize `AssetImportConfig`, your Unity project should meet these requirement
 
 ## Installation
 1. Open the Unity Package Manager (`Window` > `Package Manager`).
-2. Click `+`, select `Add package from git URL...`, and enter `https://github.com/klazapp/Unity-Device-Inspector-Public.git`.
+2. Click `+`, select `Add package from git URL...`, and enter `https://github.com/klazapp/Unity-Asset-Import-Config-Public.git`.
 3. Unity will download and make the package available in your project.
 
 ## Usage
